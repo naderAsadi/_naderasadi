@@ -4,7 +4,7 @@ I'm [Nader Asadi](https://naderasadi.github.io/), research MSc in CS at [Mila, M
 
 
 <details>
-<summary>News & Updates: (Click to expand)</summary>
+<summary>News & Updates:</summary>
 
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
