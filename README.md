@@ -9,7 +9,7 @@ I'm [Nader Asadi](https://naderasadi.github.io/), research MSc in CS at [Mila](h
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
-	<li>April 2023: PRD <a href="https://arxiv.org/pdf/2303.14771.pdf" target="_blank">paper</a> got accepted to ICML 2023! :tada:</li>
+	<li>April 2023: <a href="https://arxiv.org/pdf/2303.14771.pdf" target="_blank">PRD</a> got accepted to ICML 2023! :tada:</li>
 	<li>March 2022: Our <a href="https://arxiv.org/pdf/2203.13381.pdf" target="_blank">paper</a> got accepted to CVPR 2022! :tada:</li>
 	<li>Jan 2022: Our <a href="https://openreview.net/pdf?id=N8MaByOzUfb" target="_blank">paper</a> got accepted to ICLR 2022! :tada:</li>
 </ul>
